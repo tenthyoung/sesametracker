@@ -5,7 +5,7 @@ const Homepage = () => {
 
   return (
     <div className="background">
-      
+      hi
     </div>
 
   );
